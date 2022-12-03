@@ -1,0 +1,10 @@
+img {
+    background-color: aqua;
+    margin: auto;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
